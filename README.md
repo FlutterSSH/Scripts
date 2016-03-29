@@ -1,2 +1,2 @@
 # Scripts
-A collection of useful scripts that I haven't bothered to commit to memory.
+A collection of useful scripts that weren't quite useful enough to commit to memory...
