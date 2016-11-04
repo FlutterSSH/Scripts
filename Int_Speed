@@ -1,1 +1,0 @@
-wmic nic where NetEnabled=true get Name,Speed,MACAddress
